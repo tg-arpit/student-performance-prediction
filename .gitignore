@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+echo ".venv/" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+>>>>>>> 00ac78d (Initial commit)
